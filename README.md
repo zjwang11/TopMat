@@ -4,7 +4,7 @@ The complete theory of topological quantum chemistry (TQC) in all 1651 magnetic 
 * Website: http://tm.iphy.ac.cn/TopMat_1651msg.html <br> 
 Refs: J. Gao, et al. "Magnetic band representations, Fu-Kane-like symmetry indicators, and magnetic topological materials", Phys. Rev. B 106, 035150 (2022). https://doi.org/10.1103/PhysRevB.106.035150  <br>
 
-# A generate workflow for topologicl materials in 1651 magnetic space groups (MSGs)
+## A generate workflow for topologicl materials in 1651 magnetic space groups (MSGs)
 ### 1) prepare the original POSCAR file (without magnetism).
 
 ### 2) phonopy --symmetry --tolerance 0.01 -c POSCAR
@@ -14,6 +14,5 @@ Refs: J. Gao, et al. "Magnetic band representations, Fu-Kane-like symmetry indic
 ### 4) cp POSCAR_msg POSCAR; do spin-polarized VASP calculations with the given "MAGMOM" setting.
 
 ### 5) irvsp -sg sg#B [ -nb $m $n ] > outir (generating tqc.txt/tqc.data when using only maximal HSKPs)
-     Note: sg#B is the corresponding space group number for unitary part of the MSG (found in the first line of POSCAR_msg).
 
 ### 6) solve compatibility relations (CR) and calculate symmetry indicators (SI) in 1651 magnetic space groups (using tqc.data).
