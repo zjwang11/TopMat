@@ -1,9 +1,8 @@
 # TQC and TopMat in 1651 MSGs
-The complete theory of topological quantum chemistry (TQC) in all 1651 magnetic space groups (MSGs).
+The complete theory of topological quantum chemistry (TQC) in all 1651 magnetic space groups (MSGs).</br>
 The series of codes for searching for topological materials (TopMat) in 1651 MSGs.
 
-* Website: http://tm.iphy.ac.cn/TopMat_1651msg.html <br> 
-Refs: J. Gao, et al. "Magnetic band representations, Fu-Kane-like symmetry indicators, and magnetic topological materials", Phys. Rev. B 106, 035150 (2022). https://doi.org/10.1103/PhysRevB.106.035150  <br>
+* Ref: J. Gao, et al. "Magnetic band representations, Fu-Kane-like symmetry indicators, and magnetic topological materials", Phys. Rev. B 106, 035150 (2022). https://doi.org/10.1103/PhysRevB.106.035150  <br>
 
 ## A generate workflow for topologicl materials in 1651 magnetic space groups (MSGs) online http://tm.iphy.ac.cn/TopMat_1651msg.html
 ### 1) prepare the original POSCAR file (without magnetism).
