@@ -18,7 +18,7 @@ The series of codes for searching for topological materials (TopMat) in 1651 MSG
 ### 6) solve compatibility relations (CR) and calculate symmetry indicators (SI) in 1651 magnetic space groups (using tqc.data).
 
 # mom2msg (The additional tool to generate POSCAR_msg)
-to convert PPOSCAR to POSCAR_msg and initialize MAGMOM on magnetic atoms.</br>
+To convert PPOSCAR to POSCAR_msg and initialize MAGMOM on magnetic atoms.</br>
 
 * how to make:
 
