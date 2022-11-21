@@ -26,4 +26,4 @@ to converting PPOSCAR to POSCAR_msg and initializing MAGMOM on magnetic atoms.</
       $  cd src_mom2msg
       $  make
 
-* If you find problems, please contact us rhzhang@iphy.ac.cn
+* If you find problems, please contact us. Email: rhzhang@iphy.ac.cn
