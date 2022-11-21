@@ -18,7 +18,7 @@ The series of codes for searching for topological materials (TopMat) in 1651 MSG
 ### 6) solve compatibility relations (CR) and calculate symmetry indicators (SI) in 1651 magnetic space groups (using tqc.data).
 
 # mom2msg (The additional tool to generate POSCAR_msg)
-to compute irreducible representations with interface to plane-wave (PW) DFT packages.</br>
+to converting PPOSCAR to POSCAR_msg and initializing MAGMOM on magnetic atoms.</br>
 
 * how to make:
 
@@ -26,4 +26,4 @@ to compute irreducible representations with interface to plane-wave (PW) DFT pac
       $  cd src_mom2msg
       $  make
 
-
+* If you find problems, please contact us rhzhang@iphy.ac.cn
