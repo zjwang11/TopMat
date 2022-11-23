@@ -20,6 +20,8 @@ The series of codes for searching for topological materials (TopMat) in 1651 MSG
 
 # mom2msg (The additional tool to generate POSCAR_msg)
 To find the #MSG (in OG setting) according to the magnetic configuration.</br>
+If you find problems, please contact us. Email: rhzhang@iphy.ac.cn</br>
+
 
 * how to make:
 
@@ -38,5 +40,3 @@ To find the #MSG (in OG setting) according to the magnetic configuration.</br>
 
 
 
-
-If you find problems, please contact us. Email: rhzhang@iphy.ac.cn
