@@ -39,4 +39,4 @@ To find the #MSG (in OG setting) according to the magnetic configuration.</br>
 
 
 
-* If you find problems, please contact us. Email: rhzhang@iphy.ac.cn
+If you find problems, please contact us. Email: rhzhang@iphy.ac.cn
