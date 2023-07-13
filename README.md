@@ -33,7 +33,7 @@ If you find problems, please contact us. Email: rhzhang@iphy.ac.cn</br>
 
 Here we take a POSCAR $NiF_2$ as an example (space group: 136):</br>
 
-   $     Ni F2
+             $     Ni F2
    $     1.0
    $             4.7100000381         0.0000000000         0.0000000000
    $             0.0000000000         4.7100000381         0.0000000000
