@@ -86,6 +86,7 @@ There is no need to write 0 0 0 after a non-magnetic atoms.
 
 ### 3) src_mom2msg/mom2msg > msgout (get the #MSG and POSCAR_msg if needed)
 msgout:
+
     $      pos. mom. (frac):
     $       0.500000  0.500000  0.500000  0.000000  0.000000  0.000000
     $      -0.000000  0.500000  0.500000  0.000000  0.000000  0.000000
