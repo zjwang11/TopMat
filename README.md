@@ -225,6 +225,6 @@ OUTPUT:</br>
     $         0.50000000    0.00000000    0.00000000    1.0    ! Y
     $         0.00000000    0.50000000    0.00000000    1.0    ! Z
 
-Use POSCAR (REMOVING He atoms) and INCAR to do spin-polarized VASP calculations with spin-orbit coupling and get irreducible representations by IRVSP.</br>
+Use POSCAR (REMOVING He atoms) and INCAR to do noncolinear VASP calculations and get irreducible representations by IRVSP.</br>
 
 
