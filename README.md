@@ -1,4 +1,4 @@
-# TQC and TopMat in 1651 MSGs
+# 1. TQC and TopMat in 1651 MSGs
 The complete theory of topological quantum chemistry (TQC) in all 1651 magnetic space groups (MSGs).</br>
 The series of codes for searching for topological materials (TopMat) in 1651 MSGs.
 
@@ -17,8 +17,8 @@ The series of codes for searching for topological materials (TopMat) in 1651 MSG
 
 ### 6) solve compatibility relations (CR) and calculate symmetry indicators (SI) in 1651 magnetic space groups (using tqc.data).
 
-
-# the MOM2MSG program (a useful tool for the given magnetic configuration)
+a
+# 2. MOM2MSG program -- a useful tool for a given magnetic configuration
 To find #MSG and standarize POSCAR according to the given magnetic configuration.</br>
 If you have any problem,  please contact us by rhzhang@iphy.ac.cn</br>
 
