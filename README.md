@@ -18,7 +18,8 @@ The series of codes for searching for topological materials (TopMat) in 1651 MSG
 ### 6) solve compatibility relations (CR) and calculate symmetry indicators (SI) in 1651 magnetic space groups (using tqc.data).
 
 a
-# 2. MOM2MSG program -- a useful tool for a given magnetic configuration
+# 2. MOM2MSG program
+(A useful tool for a given magnetic configuration)</br>
 To find #MSG and standarize POSCAR according to the given magnetic configuration.</br>
 If you have any problem,  please contact us by rhzhang@iphy.ac.cn</br>
 
