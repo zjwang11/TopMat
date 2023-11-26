@@ -153,6 +153,8 @@ msgout:</br>
 
 
 ### 4) pos2msg (obtain this #MSG's all magnetic configurations)
+<div style='display: none'>
+
     $     phonopy --symmetry --tolerance 0.01 -c POSCAR_msg
     
 PPOSCAR:</br>
@@ -179,6 +181,7 @@ PPOSCAR:</br>
     $       0.1828979800000000  0.3220307500000000  0.7534042500000000
     $       0.6828979800000000  0.1779692500000000  0.2534042500000000
     $       0.3171020200000000  0.8220307499999999  0.7465957500000000
+</div>
 
 Paste PPOSCAR into the website http://tm.iphy.ac.cn/TopMat_1651msg.html with #SG 58 and #MSG 476.</br>
 OUTPUT:</br>
