@@ -30,6 +30,8 @@ If you have any problem,  please contact us by rhzhang@iphy.ac.cn</br>
       $  cd src_mom2msg
       $  make
 
+      $  src_mom2msg/mom2msg > msgout
+
 ### 1) prepare the original POSCAR file (without magnetism).
 
 Here we take a POSCAR $NiF_2$ as an example (space group: 136):</br>
