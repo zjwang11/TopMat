@@ -244,3 +244,16 @@ OUTPUT:</br>
 Use POSCAR_msg (REMOVING He atoms) and INCAR to do noncolinear VASP calculations and get irreducible representations by IRVSP.</br>
 
 
+# 3. symmat program
+(A useful tool is used to calculate the (spin) Berry curvature and (spin) Hall conductivity directly from the DFT calculations. Since the symmetry is used, only the k points in the irreducible Brillouin zone (IBZ) are computed.</br>
+If you have any problem,  please contact us by chenhao_liang@iphy.ac.cn</br>
+
+
+* how to make:
+
+      $  tar -zxvf symmat.tar.gz 
+      $  cd symmat/Symmat_src
+      $  ifort symmat.f90 -o Symmat 
+
+
+
