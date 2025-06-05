@@ -245,7 +245,7 @@ Use POSCAR_msg (REMOVING He atoms) and INCAR to do noncolinear VASP calculations
 
 
 # 3. symmat program
-(A useful tool is used to calculate the (spin) Berry curvature and (spin) Hall conductivity directly from the DFT calculations. Since the symmetry is used, only the k points in the irreducible Brillouin zone (IBZ) are computed.</br>
+(A useful tool is used to calculate the dielectric constants, (spin) Berry curvature and (spin) Hall conductivity directly from the DFT calculations. Since the symmetry is used, only the k points in the irreducible Brillouin zone (IBZ) are computed.</br>
 If you have any problem,  please contact us by chenhao_liang@iphy.ac.cn</br>
 
 
