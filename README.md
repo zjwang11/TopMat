@@ -253,7 +253,23 @@ If you have any problem,  please contact us by chenhao_liang@iphy.ac.cn</br>
 
       $  tar -zxvf symmat.tar.gz 
       $  cd symmat/Symmat_src
-      $  ifort symmat.f90 -o Symmat 
+      $  ifort symmat.f90 -o Symmat
+
+* how to use:
+      $  symmat -mu $mu (or -noe $nocc)
+
+By default, the dielectric constant is computed.
+function of tags:
+-noe $occ   			(set the occ and unocc band)
+
+-mu $mu   	  		(or you can set the fermi energy in $mu by -mu)
+
+-nb $band1:$band2	    (calulate the berry curvature ... for given bands from $band1 to $band2)
+
+-spin			              (set as default, calculate spin berry curvature and SHE (for NONCOLLINEAR)  with tag -spin)
+
+-test			              ( pi mat for given bands from $band1 to $band2 )
+
 
 
 
