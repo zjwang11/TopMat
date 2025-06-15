@@ -271,5 +271,6 @@ function of tags:
 -test			              ( pi mat for given bands from $band1 to $band2 )
 
 
-Update:  version 1.1 , 2025.6.15 : for KPOINTS using KLINE. Now, you can calculate the berry curvature along a given k_line. (just set line mode in 'KPOINTS')
+### Update:  
+    version 1.1 , 2025.6.15 : for KPOINTS using KLINE. Now, you can calculate the berry curvature along a given k_line. (just set line mode in 'KPOINTS')
 
