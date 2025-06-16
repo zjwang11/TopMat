@@ -163,13 +163,14 @@ outdir:</br>
     $       0.11000000  0.12000000 -0.15000001
     $       0.61000000  0.38000000  0.34999999
     $       0.39000000  0.62000000  0.65000001
+
+### 4) run phonopy (obtain the PPOSCAR with additional He atoms)
      
-
-
+    $ phonopy --symmetry --tolerance 0.01 -c POSCAR_msg
 
 ### 4) pos2msg (obtain this #MSG's all magnetic configurations)
 
-Paste POSCAR and additional $He$ atoms into the website http://tm.iphy.ac.cn/TopMat_1651msg.html with #SG 58 and #MSG 476.</br>
+Paste PPOSCAR with additional $He$ atoms into the website http://tm.iphy.ac.cn/TopMat_1651msg.html with #SG 58 and #MSG 476.</br>
 
 INPUT:
 
