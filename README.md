@@ -256,7 +256,7 @@ If you have any problem,  please contact us by chenhao_liang@iphy.ac.cn</br>
 * how to make:
 
       $  tar -zxvf symmat.tar.gz 
-      $  cd symmat/Symmat_src
+      $  cd symmat
       $  ifort symmat.f90 -o Symmat
 
 * how to use:
